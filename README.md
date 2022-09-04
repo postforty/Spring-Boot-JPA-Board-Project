@@ -1,4 +1,4 @@
-## Spring Boot 웹 프로젝트 - 게시판
+## Spring Boot 웹 프로젝트 - JPA 게시판
 
 + 기술 스택
   + Framework: Spring Boot
